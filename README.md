@@ -1,6 +1,6 @@
 # i3lock-nordic
 
-__A Nordic Theme for [i3lock-color](https://github.com/Raymo111/i3lock-color)__
+__A [Nordic](https://github.com/arcticicestudio/nord) Theme for [i3lock-color](https://github.com/Raymo111/i3lock-color)__
 
 ![](https://raw.githubusercontent.com/mipy1/i3lock-nordic/main/Screenshot.png)
 
