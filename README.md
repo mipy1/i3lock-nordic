@@ -2,6 +2,7 @@
 
 __A Nordic Theme for [i3lock-color](https://github.com/Raymo111/i3lock-color)__
 
+![](https://raw.githubusercontent.com/mipy1/i3lock-nordic/main/Screenshot.png)
 
 ## Installation:
 
