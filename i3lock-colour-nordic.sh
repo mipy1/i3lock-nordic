@@ -13,21 +13,21 @@ i3lock \
 		--line-uses-ring \
 		--radius=100 \
 		--ring-width=22 \
-		--insidecolor=$background$alpha \
-		--insidevercolor=$background$alpha \
-		--insidewrongcolor=$background$alpha \
-		--ringcolor=$ring$alpha \
-		--ringvercolor=$verifying$alpha \
-		--ringwrongcolor=$incorrect$alpha \
-		--keyhlcolor=$typing$alpha \
-		--bshlcolor=$backspace$alpha \
-		--wrongcolor=$incorrect$alpha \
-		--verifcolor=$verifying$alpha \
-		--layoutcolor=$ring$alpha \
-		--veriftext="Verifying..." \
-		--wrongtext="Auth Failed" \
-		--noinput="No Input" \
-		--locktext="Locking..." \
+		--inside-color=$background$alpha \
+		--insidever-color=$background$alpha \
+		--insidewrong-color=$background$alpha \
+		--ring-color=$ring$alpha \
+		--ringver-color=$verifying$alpha \
+		--ringwrong-color=$incorrect$alpha \
+		--keyhl-color=$typing$alpha \
+		--bshl-color=$backspace$alpha \
+		--wrong-color=$incorrect$alpha \
+		--verif-color=$verifying$alpha \
+		--layout-color=$ring$alpha \
+		--verif-text="Verifying..." \
+		--wrong-text="Auth Failed" \
+		--noinput-text="No Input" \
+		--lock-text="Locking..." \
 		--lockfailed="Lock Failed" \
 		--layout-font="Helvetica" \
 		--verif-font="Helvetica" \
@@ -40,10 +40,10 @@ i3lock \
 		--pass-power-keys \
 		--ignore-empty-password \
 		--clock \
-		--timestr="%H:%M:%S" \
-		--datestr="%a %b %e %Y" \
-		--datecolor=$ring$alpha \
-		--timecolor=$ring$alpha \
+		--time-str="%H:%M:%S" \
+		--date-str="%a %b %e %Y" \
+		--date-color=$ring$alpha \
+		--time-color=$ring$alpha \
 		--time-font='Helvetica' \
 		--date-font='Helvetica' \
 		--indicator \
